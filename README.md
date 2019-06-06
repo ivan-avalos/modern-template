@@ -2,6 +2,8 @@
 
 ![Screenshot of template](screenshot.png)
 
++ **Link to live demo:** [Demo](https://ivan-avalos.github.io/modern-template)
+
 This is a beautiful and modern HTML template with a design based on the latest web design trends: big images, big text, geometric fonts and more! Everything while keeping it lightweight and fast. There's not even JavaScript yet! That makes it really modern yet fast and efficient. I was inspired by websites like _Apple_, _Huawei_ and _Spotify_ to create this beauty.
 
 ## Typography
